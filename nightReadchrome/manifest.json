@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+  
+    "name": "custom darkmode plugin",
+    "description": "This extension will apply dark mode to current page",
+    "version": "2.0.0",
+    "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+     },
+     "permissions": [
+      "tabs", "http://*/*", "https://*/*", "<all_urls>"
+  ]
+}
