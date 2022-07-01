@@ -22,7 +22,7 @@ Stay tuned for new updates
 
 To install this project 
 
- Download the nightReadchrome folder
+ Download the nightReadchrome folder stable release v3
 
 Follow these steps:
 
